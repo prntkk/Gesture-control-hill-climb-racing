@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://store-images.microsoft.com/image/apps.18483.9007199266379485.0000ad5a-1400-4539-b79a-62b2b9248545.0ac4e475-8d4b-42bb-8723-14576cb8e50a?h=1280" alt="Gesture Control Banner" width="100%">
 </p>
-
+<p align="center">
+  <img src="https://cdn.webgamer.io/games/slow-roads/slow-roads.1280x.85pc.webp" alt="Gesture Control Banner" width="100%">
+</p>
 <h1 align="center">🖐️ Gesture-Controlled Racing Game</h1>
 <p align="center">
   Control racing games with your hands using MediaPipe + OpenCV + Python <br />
@@ -15,8 +17,10 @@
 
 ## 🎮 Features
 
-- ✋ Open Palm → Accelerate (Right Arrow)
-- ✊ Fist → Brake / Reverse (Left Arrow)
+- ✋ Open Palm → Accelerate 
+- ✊ Fist → Brake / Reverse 
+- 🤚 If hand moves left while open → steer left 
+- 🖐 If hand moves right while open → steer right
 - 🎥 Real-time webcam detection
 - 🧠 Hand landmark tracking with MediaPipe
 - 🎮 Works with games that use arrow keys or WASD
