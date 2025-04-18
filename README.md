@@ -1,5 +1,5 @@
 
-```markdown
+
 <!-- Banner -->
 <p align="center">
   <img src="https://i.imgur.com/dhZ6frG.png" alt="Gesture Control Banner" width="100%">
