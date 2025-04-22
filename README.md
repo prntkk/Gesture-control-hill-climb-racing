@@ -32,7 +32,7 @@
 ### 📁 Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/Gesture-control-hill-climb-racing.git
+git clone https://github.com/prntkk/Gesture-control-hill-climb-racing.git
 cd Gesture-control-hill-climb-racing
 ```
 
